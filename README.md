@@ -4,8 +4,6 @@ An End-to-End (Full-Stack) Predictive Health Analytics system that leverages a M
 
 ---
 
-## My Workflow
-
 ### 🔄 My Workflow
 My development cycle followed a strict software engineering pipeline:
 1. **Data Exploration & Strategy:** Cleaned and evaluated the *Sleep Health and Lifestyle Dataset* using Pandas, analyzed correlation matrices, and handled sparse categorical encoding.
